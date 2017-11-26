@@ -1,7 +1,7 @@
 # Toy model for PyData NYC talk
 
-`toy_pydatanyc.ipynb` - Jupyter notebook that demonstrates `torsionfit` for 
-a simple, toy model
+`toy_pydatanyc.ipynb` - Jupyter notebook that demonstrates `torsionfit` with 
+a simple toy model.
 
 # Dependencies
 * [torsionfit](https://github.com/choderalab/torsionfit)
